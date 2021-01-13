@@ -1,0 +1,12 @@
+# Moderate
+
+10,In which year was Obama elected President?,2008,2007,2010,2006
+11,What is the Loch Ness Monster's nickname?,Bestie,Nessie,Leslie,Presie
+12,What's the name of the company that published the Mario Kart video game?,Nintendo,Sega,Sony,Mario Party
+13,Where is the Golden Gate Bridge located?,San Francisco,Nevada,Spain,Laguna
+14,"When one is ""envious"", they are said to be what color?",Green,Yellow,Blue,Red
+15,What is the world's most expensive spice by weight?,Saffron,Cinnamon,Vanilla,Cardamom
+16,What is the last letter of the Greek alphabet?,Omega,Psi,Sigma,Xi
+17,What is the currency of Poland?,Ruble,Sterling,Cruzado,Zloty
+18,How old do you have to be to enter into the drawing of the Hunger Games?,10 years old,17 years old,12 years old,19 years old
+19,What language is the most popularly spoken worldwide?,English,German,Chinese,Spanish

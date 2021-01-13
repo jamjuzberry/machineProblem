@@ -1,0 +1,12 @@
+# Hard
+
+20,What city is with the smallest population in the world?,"Opatowiec, Poland","Vaduz, Liechtenstein","Funafuti, Tuvalu","Ngerulmund, Palau"
+21,What is the practice of finding shapes in clouds?,Nephelococcygia,Retronym,Gnoculygia,Lhotseng
+22,"In flight systems, what does the initialism ""TCAS"" stand for?",Traffic Collision Avoidance System?,Traffic Composure Avoidance Systen,Tricyclic Antidepressants,No such initialism exists
+23,What is the romanized Arabic word for ""moon""?,min,shukran,qamar,madeon
+24,What is Shakespeare's shortest play?,Sonnet 18,The Comedy of Errors,Macbeth,Hamlet  
+25,What year was Queen Elizabeth II born?,1935,1926,1928,1932
+26,When did the French Revolution begin?,1789,1775,1791,1799
+27,What is the unit of electrical inductance?,Henry,Volts,Coulumb,Ohm
+28,Which of the following is not a word used to describe an earthquake?,Temporarily quiescent,Late prodigious,Drop-slide,Great chillean
+29,Which scientific unit is named after an Italian nobleman?,Joule,Gal,Volt,Torr
